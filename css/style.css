@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.container {
+    width: 94%;
+    margin: 0 auto;
+
+}
+header {
+    background-color: #ca0202;
+    
+}
+.row {
+    display: flex;
+}
+img[src="img/je-whiteout-retina.png"] {
+    margin: 10px;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.align-items-center {
+    align-items: center;
+}
+.der {
+    justify-content: center;
+}
+.esp {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.foto {
+    background-image: url(../img/heroImg.jpg);
+    color: white;
+    border-image-repeat: none;
+}
+.text-align-center {
+    text-align: center;
+    padding-top: 100px;
+}
+.tamaño {
+    font-size: 60px;
+    margin-bottom: 0;
+}
+.tamaño2 {
+    font-size: 25px;
+}
+.ab {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    
+}
+.text-white {
+    color: white;
+}
+.tex {
+    width: 100%;
+}
+.feature{
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 2%;
+}
+footer {
+    background-color: rgb(205, 204, 204);
+}
+.negro {
+    color: black;
+}
+.dinero {
+    font-size: 45px;
+}
+.btn-morado {
+    color: white;
+    background-color: #d65893;
+}
+footer {
+    background-color: #b5b5b5;
+}.espa {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.le {
+    float: right;
+    margin-right: 1px;
+}
+img[src="img/Facebook.svg"] {
+    margin-right: 20px;
+}
+img[src="img/Instagram.svg"] {
+    margin-right: 20px;
+}
+img[src="img/Youtube.svg"] {
+    margin-right: 20px;
+}
+.sp {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.blanc {
+    color: white;
+    text-decoration: solid;
+}
+.blanc:hover{
+    color: black;
+}
+.decor {
+    list-style: none;
+    list-style-type: none;
+    list-style-image: none;
+}
+.dist {
+    padding: 0;
+    padding-top: 8px;
+    font-weight: bold;
+}
+.abajo {
+    font-size: 22px;
+    font-weight: bold;
+}
+.ab {
+    font-size: 18px;
+}
+.espa {
+    padding-left: 10%;
+    padding-right: 10%;
+}
